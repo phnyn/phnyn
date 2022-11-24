@@ -1,11 +1,11 @@
-## Hi, I'm Phuong 👋
+## Hi, I'm Phuong ✨
 A computer science student attempting to learn all things frontend and web developement
-- 🌱 currently learning **css art, figma, javascript**
-- 🏛️	my university projects are available [here](https://github.com/stars/phnyn/lists/uni-projects)
-- 🌟 fun fact: I really like eating potatoes
+- ⭐ currently learning **css art, figma, javascript**
+- 🌙	my university projects are available [here](https://github.com/stars/phnyn/lists/uni-projects)
+- ☀️ fun fact: I really like eating potatoes
 <!-- emoji list (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)-->
 
-#### ✨ Languages and Tools
+#### 🌟  Languages and Tools
 <!-- 
 https://shields.io/
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md 
@@ -31,7 +31,7 @@ https://simpleicons.org/
  </p>
  
 <details>
-  <summary> <h4> ✨ Stats</h4> </summary>
+  <summary> <h4> 🌟 Stats</h4> </summary>
     <img align="right" src="https://komarev.com/ghpvc/?username=phnyn&label=Views&color=6a89c9&style=flat" alt="phnyn" />
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phnyn&show_icons=true&locale=en&layout=compact" alt="phnyn" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api?username=phnyn&show_icons=true&locale=en" alt="phnyn" /></p>
