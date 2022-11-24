@@ -20,14 +20,14 @@ https://simpleicons.org/
   <img src="https://img.shields.io/badge/Code-Java-informational?logo=oracle&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
   <img src="https://img.shields.io/badge/Code-HTML-informational?logo=html5&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
-  <img src="https://img.shields.io/badge/Code-CSS-informational?logo=css3&style=flat&labelColor=304467&logoColor=bc9dc2&color=6a89c9"/> 
+  <img src="https://img.shields.io/badge/Code-CSS-informational?logo=css3&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
   
-  <!-- Frameworks -->
+  <!-- Frameworks
   <img src="https://img.shields.io/badge/FWK-Bootstrap-informational?logo=bootstrap&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
-
+ -->
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?logo=github&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
-  <img src="https://img.shields.io/badge/Tools-PS-informational?logo=adobephotoshop&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
+ <!-- <img src="https://img.shields.io/badge/Tools-PS-informational?logo=adobephotoshop&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> -->
  </p>
  
 <details>
