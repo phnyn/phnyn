@@ -32,7 +32,7 @@ https://simpleicons.org/
  
 <details>
   <summary> <h4> 🌟 Stats</h4> </summary>
-    <img align="right" src="https://komarev.com/ghpvc/?username=phnyn&label=Views&color=6a89c9&style=flat" alt="phnyn" />
+    <!-- <img align="right" src="https://komarev.com/ghpvc/?username=phnyn&label=Views&color=6a89c9&style=flat" alt="phnyn" /> -->
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phnyn&show_icons=true&locale=en&layout=compact" alt="phnyn" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api?username=phnyn&show_icons=true&locale=en" alt="phnyn" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phnyn&" alt="phnyn" />
