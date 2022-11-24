@@ -1,8 +1,8 @@
-## Hi 👋, I'm Phuong
+## Hi, I'm Phuong 👋
 A computer science student attempting to learn all things frontend and web developement
-- 🌱 I’m currently learning **css art, figma, javascript**
-- 🏛️	All of my university projects are available [here](https://github.com/stars/phnyn/lists/uni-projects)
-- 🌟 Fun fact: I really like eating potatoes
+- 🌱 currently learning **css art, figma, javascript**
+- 🏛️	my university projects are available [here](https://github.com/stars/phnyn/lists/uni-projects)
+- 🌟 fun fact: I really like eating potatoes
 <!-- emoji list (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)-->
 
 #### ✨ Languages and Tools
