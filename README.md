@@ -29,9 +29,10 @@ https://simpleicons.org/
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?logo=github&style=flat&labelColor=304467&logoColor=bc9dc2&color=6a89c9"/> 
   <img src="https://img.shields.io/badge/Tools-PS-informational?logo=adobephotoshop&style=flat&labelColor=304467&logoColor=bc9dc2&color=6a89c9"/> 
  </p>
-
+ 
 <details>
-  <summary> <h4> ✨ Github Stats</h4> </summary>
+  <summary> <h4> ✨ Stats</h4> </summary>
+    <img align="right" src="https://komarev.com/ghpvc/?username=phnyn&label=Views&color=6a89c9&style=flat" alt="phnyn" />
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phnyn&show_icons=true&locale=en&layout=compact" alt="phnyn" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api?username=phnyn&show_icons=true&locale=en" alt="phnyn" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phnyn&" alt="phnyn" />
