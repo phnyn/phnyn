@@ -29,7 +29,6 @@ https://simpleicons.org/
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?logo=github&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
  <!-- <img src="https://img.shields.io/badge/Tools-PS-informational?logo=adobephotoshop&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> -->
  </p>
- 
 <details>
   <summary> <h4> 🌟 Stats</h4> </summary>
     <!-- <img align="right" src="https://komarev.com/ghpvc/?username=phnyn&label=Views&color=6a89c9&style=flat" alt="phnyn" /> -->
