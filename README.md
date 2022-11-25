@@ -26,8 +26,9 @@ https://simpleicons.org/
   <img src="https://img.shields.io/badge/FWK-Bootstrap-informational?logo=bootstrap&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
  -->
   <!-- Tools -->
+  <!--
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?logo=github&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
- <!-- <img src="https://img.shields.io/badge/Tools-PS-informational?logo=adobephotoshop&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> -->
+  <img src="https://img.shields.io/badge/Tools-PS-informational?logo=adobephotoshop&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> -->
  </p>
 <details>
   <summary> <h4> 🌟 Stats</h4> </summary>
