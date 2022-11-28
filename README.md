@@ -5,23 +5,27 @@ A computer science student attempting to learn all things frontend and web devel
 - ☀️ fun fact: I really like eating potatoes
 <!-- emoji list (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)-->
 
-#### 🌟  Languages and Tools
 <!-- 
+#### 🌟  Languages and Tools
+
 https://shields.io/
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md 
 https://simpleicons.org/
   <img src="https://img.shields.io/badge/OS-macOS-informational?logo=visual-studio-code&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9">
 -->
+<!--
 <p>
   <img src="https://img.shields.io/badge/OS-macOS-informational?logo=visual-studio-code&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9">
   <img src="https://img.shields.io/badge/Editor-VS_Code-informational?logo=visual-studio-code&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9">
-  
+  -->
   <!-- Code -->
+  <!--
   <img src="https://img.shields.io/badge/Code-Java-informational?logo=oracle&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
   <img src="https://img.shields.io/badge/Code-HTML-informational?logo=html5&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
   <img src="https://img.shields.io/badge/Code-CSS-informational?logo=css3&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
   
+-->
   <!-- Frameworks
   <img src="https://img.shields.io/badge/FWK-Bootstrap-informational?logo=bootstrap&style=flat&labelColor=304467&logoColor=6a89c9&color=6a89c9"/> 
  -->
